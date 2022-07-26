@@ -1,6 +1,6 @@
 # Visualize the Sorting Algos
 
-[[https://amrit180.github.io/sorting-visualizer/]
+https://amrit180.github.io/sorting-visualizer/
 
 # Getting Started with Create React App
 
